@@ -1,0 +1,9 @@
+- company: 1C-Papyc
+  roles:
+    - role: Programmer-Consultunt
+      details:
+        I was on a half-time internship in the production and training department, developing
+        the integration backend. I did the receiving and saving of integration settings and files in the database.
+        I wrote in php, the laravel framework, and the MySQL language for the database.
+        He left of his own accord.
+      date: August 2024 - October 2024

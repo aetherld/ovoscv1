@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resume1s on Резюме</title>
+    <link>http://localhost:1313/resume1/</link>
+    <description>Recent content in Resume1s on Резюме</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/resume1/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Мое Резюме</title>
+      <link>http://localhost:1313/resume1/resume1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/resume1/resume1/</guid>
+      <description>&lt;h1 id=&#34;щетилов-александр-александрович&#34;&gt;Щетилов Александр Александрович&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Email:&lt;/em&gt; &lt;a href=&#34;mailto:pieronet3@gmail.com&#34;&gt;pieronet3@gmail.com&lt;/a&gt;&lt;br&gt;&#xA;&lt;em&gt;Телефон:&lt;/em&gt; +7 (902) 100-1064 &lt;br&gt;&#xA;&lt;em&gt;GitHub:&lt;/em&gt; &lt;a href=&#34;https://github.com/aetherld&#34;&gt;github.com/aetherld&lt;/a&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;опыт-работы&#34;&gt;Опыт работы&lt;/h2&gt;&#xA;&lt;h3 id=&#34;senior-software-engineer&#34;&gt;Senior Software Engineer&lt;/h3&gt;&#xA;&lt;p&gt;&lt;strong&gt;Компания 1C: Рарус&lt;/strong&gt;&lt;br&gt;&#xA;Июль 2024 – Сентябрь 2024&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Работа с конфигурацией &amp;ldquo;Управление Бухгалтерией&amp;rdquo;.&lt;/li&gt;&#xA;&lt;li&gt;Консультация по конфигурации &amp;ldquo;Управление Бухгалтерией&amp;rdquo;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;образование&#34;&gt;Образование&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Университет ПГТУ&lt;/strong&gt;&lt;br&gt;&#xA;Сентябрь 2022 – Настоящее время&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;навыки&#34;&gt;Навыки&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Языки программирования:&lt;/strong&gt; Python, JavaScript, C++, Pascal&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Фреймворки и библиотеки:&lt;/strong&gt; React, Hugo&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Инструменты:&lt;/strong&gt; Git, Figma&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;контактная-информация&#34;&gt;Контактная информация&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Email:&lt;/strong&gt; &lt;a href=&#34;mailto:pieronet3@gmail.com&#34;&gt;pieronet3@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Телефон:&lt;/strong&gt; +7 (902) 100-1064&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

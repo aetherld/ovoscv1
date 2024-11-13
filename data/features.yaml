@@ -1,0 +1,21 @@
+about:
+  name: Alexander Shchetilov
+  tagline: Software Enginier
+  phone: "8902*****64"
+  email: al.schetilov@yandex.ru
+
+skills:
+  - groupName: Data Analysis & Analytics
+    list:
+      - Python - Excel - SQL
+
+interests:
+  - Programming
+
+languages:
+  - name: Russian
+    level: Native
+
+  - name: English
+    level: B2
+
